@@ -1,0 +1,29 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "Pruebas con GIT",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltahuilan/git-pruebas.git"
+  },
+  "keywords": [
+    "Gulp",
+    "GIT",
+    "SASS"
+  ],
+  "author": "Luis Tahuilán",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltahuilan/git-pruebas/issues"
+  },
+  "homepage": "https://github.com/ltahuilan/git-pruebas#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-sass": "^5.0.0"
+  }
+}
